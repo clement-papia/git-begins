@@ -1,0 +1,4 @@
+git clone(git@github.com:clement-papia/git-begins.git)
+git add --all
+git commit -m "Shell"
+git push
